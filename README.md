@@ -61,4 +61,4 @@ Sinta-se à vontade para explorar meus projetos e aprender comigo!
 
 
 
-
+<img width="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=f86330&section=footer&reversal=false" >
