@@ -43,13 +43,20 @@ Trabalhar na área da saúde como **médico**, mas também adoro mergulhar no mu
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedroalberto0808&theme=monokai)  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedroalberto0808&theme=monokai)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedroalberto0808&theme=monokai)
-
-
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
 💫 **Obrigado por visitar meu perfil!**  
 Sinta-se à vontade para explorar meus projetos e aprender comigo!
+
+
 
 
