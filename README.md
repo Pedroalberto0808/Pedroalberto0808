@@ -32,7 +32,7 @@ Trabalhar na área da saúde como **médico**, mas também adoro mergulhar no mu
 ---
 <div>
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPedroalberto0808&s=40&c=ffdd00&bg=00000000&no=3&ff=linebeam&tb=visits%3A+&ta=+visitors%21)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPedroalberto0808&s=40&c=ffdd00&bg=00000000&no=3&ff=linebeam&tb=visits%3A+&ta=)
 </div>
 
 ## 🌟 Minhas estatísticas
