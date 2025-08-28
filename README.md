@@ -1,27 +1,35 @@
-# 👋 Olá! Eu sou o Pedro Alberto
-
-
-Tenho **12 anos** e sou apaixonado por **tecnologia** e por aprender coisas novas.  
-No meu tempo livre, gosto de:
+#  Eae ✌️, eu sou o Pedro Alberto!
 
 <img src="https://i.imgur.com/Um07oLL.jpg" align="right" alt="Goku" width="200">
 
-- 💻 Programar e criar meus próprios projetinhos  
-- 🎸 Tocar violão  
-- ⚽ Jogar futebol  
-- 📚 Estudar e praticar inglês  
-- 🎨 Desenhar e assistir coisas legais  
+Tenho **12 anos** e sou apaixonado por **tecnologia**, **programação** e por aprender coisas novas.  
 
-✨ Meu sonho é trabalhar na área da saúde como **médico**, mas também adoro aprender sobre **programação e tecnologia**.  
+💡 **No meu tempo livre, você me encontra:**  
+- 💻 Programando e criando meus próprios projetinhos  
+- 🎸 Tocando violão  
+- ⚽ Jogando futebol  
+- 📚 Estudando e praticando inglês  
+- 🎨 Desenhando e explorando coisas criativas  
 
-## 🚀 O que você vai encontrar aqui
-- Meus **projetinhos simples** em programação  
-- **Testes e aprendizados** que faço enquanto programo  
-- Meu **progresso no mundo da tecnologia**  
+✨ **Meu grande sonho:**  
+Trabalhar na área da saúde como **médico**, mas também adoro mergulhar no mundo da **tecnologia e programação**.  
+<div class="Redes Sociais">
+
+![Static Badge](https://img.shields.io/badge/Gmail-FFA500?style=for-the-badge&logo=Gmail)
+
+</div>
+
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+
+## 🚀 O que você vai encontrar por aqui
+- 🛠 **Projetos simples** que estou desenvolvendo  
+- 📈 **Testes e aprendizados** de programação  
+- 🌐 Meu **progresso no mundo tech**
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
+## 🌟 Minhas estatísticas
 
 <div class="statics">
 
@@ -32,12 +40,7 @@ No meu tempo livre, gosto de:
 
 </div>
 
+---
 
-
-
-
-
-
-
-
-    
+💫 **Obrigado por visitar meu perfil!**  
+Sinta-se à vontade para explorar meus projetos e aprender comigo!
