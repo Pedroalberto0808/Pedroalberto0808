@@ -1,4 +1,6 @@
-#  Eae ✌️, eu sou o Pedro Alberto!
+<img  width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=f86330" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=EE0000&width=435&lines=++Eae+%E2%9C%8C%EF%B8%8F%2C+eu+sou+o+Pedro+Alberto!" alt="Typing SVG" /></a>
 
 <img src="https://i.imgur.com/Um07oLL.jpg" align="right" alt="Goku" width="200">
 
@@ -28,6 +30,11 @@ Trabalhar na área da saúde como **médico**, mas também adoro mergulhar no mu
 - 🌐 Meu **progresso no mundo tech**
 
 ---
+<div>
+
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPedroalberto0808&s=40&c=fff700&bg=00000000&no=2&ff=linebeam&tb=visits%3A+&ta=)
+
+</div>
 
 ## 🌟 Minhas estatísticas
 
@@ -44,3 +51,5 @@ Trabalhar na área da saúde como **médico**, mas também adoro mergulhar no mu
 
 💫 **Obrigado por visitar meu perfil!**  
 Sinta-se à vontade para explorar meus projetos e aprender comigo!
+
+
