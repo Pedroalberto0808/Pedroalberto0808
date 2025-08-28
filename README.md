@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro Alberto!
 
-<!--
-**Pedroalberto0808/Pedroalberto0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho **12 anos** e sou apaixonado por **tecnologia** e por aprender coisas novas.  
+No meu tempo livre, gosto de:
 
-Here are some ideas to get you started:
+- 💻 Programar e criar meus projetinhos
+- 🎸 Tocar violão
+- ⚽ Jogar futebol
+- 📚 Estudar e praticar inglês
+- 🎨 Desenhar e assistir coisas legais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Meu sonho é trabalhar na área da saúde como **médico** no futuro, mas também gosto muito de aprender sobre programação e tecnologia.
+
+## 🚀 O que você vai encontrar aqui
+- Projetinhos simples que estou desenvolvendo
+- Testes e aprendizados de programação
+- Meu progresso no mundo da tecnologia
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+
+
+      
