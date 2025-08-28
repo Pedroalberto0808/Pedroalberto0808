@@ -52,8 +52,11 @@ Trabalhar na área da saúde como **médico**, mas também adoro mergulhar no mu
 
 
 ---
+<div class="final">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F6C200&width=435&lines=%F0%9F%92%AB+Obrigado+por+visitar+meu+perfil!" alt="Typing SVG" /></a>  
+</div>
 
-💫 **Obrigado por visitar meu perfil!**  
+
 Sinta-se à vontade para explorar meus projetos e aprender comigo!
 
 
